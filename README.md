@@ -28,3 +28,7 @@
 
 ![screencapture-192-168-0-152-12977-index-html-2023-10-17-09_49_26](https://github.com/Shaishab10/Dmoney_Trnx_Api_Rest_Assured/assets/54171379/8cd4bfb5-c3e4-4c49-8b2d-a4df677d21a7)
 
+### Output Video
+
+https://github.com/Shaishab10/Dmoney_Trnx_Api_Rest_Assured/assets/54171379/a684bf25-e49f-4435-b5db-103d2352bba3
+
